@@ -1,6 +1,6 @@
 # Decentralized Application
 
-Video URL : https://www.youtube.com/watch?v=B80nSwrzcas
+Video preview URL : https://www.youtube.com/watch?v=B80nSwrzcas
 
 🔧 Project Diagram:
 
